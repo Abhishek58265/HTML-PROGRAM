@@ -1,0 +1,27 @@
+<html>
+     <head>
+          <title>MY FIRST PAGE</title>
+<link rel="shortcut icon" type"image/icon" href="download.jpg">
+                          </head>
+<STYLE>
+h1,h2,h3,h4,h5,h6
+{
+ color:blue;
+}
+p
+{
+ color:#01DF01;
+}
+</STYLE>
+<BODY style="background-color:BLACk;" >
+
+ <CENTER><h1>RESUME</h1>
+  <h2>RESUME</h2>
+  <h3>RESUME</h3>
+  <h4>RESUME</h4>
+  <h5>RESUME</h5>
+  <h6>RESUME</h6>
+  <p>ABHISHEK SAXENA</p></CENTER>
+</BODY>
+                   
+                  </HTML>
