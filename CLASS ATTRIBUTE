@@ -1,0 +1,36 @@
+<<!DOCTYPE html>
+<html>
+  <head>
+    <title>CLASS IN HTML</title>
+    <style>
+      .abhi{
+        background-color: tomato;
+        border: 2px solid black;
+        margin: 20px;
+        padding: 20px;
+        text-align: center;
+    }
+    .new{
+      background-color: green;
+      border: 2px solid black;
+      margin: 20px;
+      padding: 20px;
+      text-align: center;
+
+    }
+
+      </style>
+  </head>
+  <body>
+    <div class="abhi">
+      <h2>AMERICA</h2>
+    </div>
+    <div class="abhi">
+      <h2>INDIA</h2>
+    </div>
+    <div class="new">
+       <h3>ABHISHEK</h3>
+    </div>
+
+  </body>
+</html>
